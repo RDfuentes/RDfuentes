@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/y1ZBcOGOOtlpC/giphy.gif" alt="Saludo animé" width="200"/>
-</p>
-
 <h1 align="center">¡Hola, soy Ronald Fuentes! 👋</h1>
-<p align="center">Ingeniero en sistemas, lider de un equipo de desarrollo de software, apasionado por crear soluciones robustas y escalables.</p>
+<p align="center">Ingeniero en sistemas, freelance, lider de equipos de desarrollo de software, apasionado por crear soluciones a requerimientos del cliente.</p>
 
 ---
 
@@ -25,23 +21,25 @@
 ---
 
 ## 💡 Sobre mí
-- 🎓 Educación en Ingeniería de Sistemas.
-- 💼 Experiencia trabajando en proyectos web tanto en frontend como en backend.
-- 🚧 Siempre aprendiendo nuevas tecnologías y mejores prácticas.
+- 🎓 Magister en seguridad informática.
+- 🎓 Ingeniero en Sistemas de información y ciencias de la computación.
+- 💼 Experiencia como freelance, lider de equipos de desarrollo de software, tanto en frontend como en backend.
+- 🚧 Siempre enfocado en la mejora continua.
 
 ---
 
 ## 🔧 Habilidades Destacadas
 
 ### 🌐 Frontend
-- Maquetación semántica con **HTML5**, **CSS3** y **Bootstrap**.
+- Maquetación semántica con **HTML5** y **Bootstrap**.
+- Maquetación dinámica con motores de plantillas.
 - Interactividad y dinamismo con **JavaScript**.
 - Responsive Design y accesibilidad.
 
 ### 🛠️ Backend
 - Desarrollo de APIs y aplicaciones con **PHP** y **Laravel**.
 - Desarrollo de aplicaciones y servicios con **Python** y **Django**.
-- Creación de servicios y librerías en **C#** y **.NET**.
+- Creación de servicios en **C#** y **.NET**.
 
 ### 🗄️ Bases de Datos
 - Diseño, optimización y gestión de datos con **MySQL**.
@@ -49,9 +47,9 @@
 ---
 
 ## 📫 Contacto
-- 📧 **Email:** tu.email@ejemplo.com
-- 🌐 **LinkedIn:** https://www.linkedin.com/in/tu-perfil
-- 🗂️ **GitHub:** https://github.com/tu-usuario
+- 📧 **Email:** ronaldfuentes.newsoft@gmail.com
+- 🌐 **LinkedIn:** https://www.linkedin.com/in/ronald-fuentes-5959a6124/
+- 🗂️ **GitHub:** https://github.com/RDfuentes/
 
 ---
 
